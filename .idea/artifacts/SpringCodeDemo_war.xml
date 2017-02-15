@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringCodeDemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringCodeDemo-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SpringCodeDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
